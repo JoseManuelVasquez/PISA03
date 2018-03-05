@@ -1,2 +1,3 @@
 # PISA03
-Projecte Integrat de Software
+
+This is the repository of group A03 of the Integrated Software Project
